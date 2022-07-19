@@ -1,0 +1,74 @@
+.color{
+    background-color: #28A745;
+    height: 60px;
+}
+
+
+.color-verde{
+    background-color: #28A745;
+    height: 198px;
+}
+
+.card-tittle{
+    font-family: lite;
+
+}
+
+.color-precio{
+    color: #28A745;
+    font-size: 20pt;
+}
+
+.tamano-precio{
+    font-size: 16pt;
+}
+
+.color-letra{
+    color: #FFFFFF;
+
+}
+
+.color-letra2{
+    color: grey;
+}
+
+.color-blanco{
+    color: #FFFFFF;
+}
+
+footer img{
+    height: 24pt;
+    width: 82pt
+
+}
+
+footer img{
+    display:block;
+    margin:auto;
+    }
+
+.logo{
+    height: 26pt;
+    width: 86pt;
+    background-image: url(../img/logo-white.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.centrar{
+    margin-top: 10pt;
+    text-align: center;
+}
+
+.name{
+    margin-left: 4pt;
+    margin-right: 4pt;
+    margin-bottom: 5pt;
+}
+
+.correo{
+    margin-top: 5pt;
+    margin-left: 4pt;
+    margin-right: 4pt;
+}
+
